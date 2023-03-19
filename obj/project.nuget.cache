@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "5bONqPi4ymeHTPUfpnuodjyjn5seo2v7u8y1Rf7rYdsf4GcwXV0LlGU77GV4RItITJRLCOBKtnLDakLlLi89VA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Darth\\AppData\\Roaming\\SpaceEngineers\\Mods\\Tyranid Mod\\CoreParts.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Darth\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Darth\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

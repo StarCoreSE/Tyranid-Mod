@@ -1,0 +1,5 @@
+C:\Users\Darth\AppData\Roaming\SpaceEngineers\Mods\Tyranid Mod\obj\Debug\netstandard2.0\CoreParts.csproj.AssemblyReference.cache
+C:\Users\Darth\AppData\Roaming\SpaceEngineers\Mods\Tyranid Mod\obj\Debug\netstandard2.0\CoreParts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darth\AppData\Roaming\SpaceEngineers\Mods\Tyranid Mod\obj\Debug\netstandard2.0\CoreParts.AssemblyInfoInputs.cache
+C:\Users\Darth\AppData\Roaming\SpaceEngineers\Mods\Tyranid Mod\obj\Debug\netstandard2.0\CoreParts.AssemblyInfo.cs
+C:\Users\Darth\AppData\Roaming\SpaceEngineers\Mods\Tyranid Mod\obj\Debug\netstandard2.0\CoreParts.csproj.CoreCompileInputs.cache
